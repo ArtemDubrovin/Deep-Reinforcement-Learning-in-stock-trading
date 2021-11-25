@@ -1,1 +1,2 @@
 # Deep-Reinforcement-Learning-in-stock-trading
+This project is a part of my thesis. The aim of this project is to apply different model free Deep Reinforcement Learning (DRL) architecures (Actor-Only, Critic-Only, Actor-Critic) to different stocks with different volatility over time horizant t from DOW. My goal is to see which of these different DRL architecture perform how good on different stocks with different volatilities. Benchmarks like Buy & Hold, RSI and MACD will also be applied to measure the performance of our DRL Agent.  
